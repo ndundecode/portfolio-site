@@ -5,5 +5,7 @@ docs/
 .git
 .gitignore
 .vercelignore
+.tools/
+node_modules/
 
 # Do not ignore assets/cv PDFs — those are intentional public downloads

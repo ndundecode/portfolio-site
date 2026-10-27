@@ -1,13 +1,13 @@
 # Public media for the portfolio
 
 ## Screenshots
-Drop real product screenshots here (no employer/client UI):
+Compressed JPEGs (max width ~1400px, quality ~82):
 
-- `nducore.png` — NduCore
-- `ndulearn.png` — NduLearn
-- `nducare.png` — NduCare
+- `nducore.jpg` — NduCore
+- `ndulearn.jpg` — NduLearn
+- `nducare.jpg` — NduCare
 
-Keep width around 1280–1600px. Prefer compressed PNG or WebP (rename and update `index.html` if you use WebP).
+Replace by dropping a new PNG/JPEG here, then recompress before commit (keep each file under ~150KB).
 
 ## CV downloads
 Public PDFs live in `cv/`:
