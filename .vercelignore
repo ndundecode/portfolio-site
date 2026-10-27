@@ -1,0 +1,9 @@
+# Never upload private job-search files
+docs/
+*.docx
+*.xlsx
+.git
+.gitignore
+.vercelignore
+
+# Do not ignore assets/cv PDFs — those are intentional public downloads

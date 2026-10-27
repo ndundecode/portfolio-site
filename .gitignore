@@ -1,0 +1,17 @@
+# Personal / job-search documents must never ship with this site
+docs/
+*.docx
+*.xlsx
+
+# Allow public CV downloads only from assets/cv/
+*.pdf
+!assets/cv/
+!assets/cv/*.pdf
+
+# Local / tooling
+.DS_Store
+Thumbs.db
+.vercel
+.env
+.env.*
+*.log
